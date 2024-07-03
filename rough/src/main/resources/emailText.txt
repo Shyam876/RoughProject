@@ -1,0 +1,64 @@
+<![CDATA[
+                    ------------------------------------------------------------------
+ADOBE
+------------------------------------------------------------------
+
+Hei, $!esc.html($!{first_name})!
+
+Velkommen til Adobe Acrobat Standard.
+
+Med Acrobat-utvidelsen for Microsoft Edge får du premium-verktøy du kan bruke i Edge-nettleseren:
+
+– Redigering av tekst og bilder direkte i PDF-filer
+– Konvertering av PDF-filer til Microsoft Word, PowerPoint, Excel og mer
+– Konvertering av dokumenter og bilder til PDF
+– Kombinering av flere filer til én PDF-fil og organisering av sider
+– Reduksjon av størrelsen på PDF-filer, slik at de blir enklere å dele
+– Beskyttelse mot kopiering, redigering eller utskrift av PDF-innhold
+
+Kom i gang:
+https://www.adobe.com/go/acrobat_extension_no?trackingid=DW3FZYT7&mv=email
+
+------------------------------------------------------------------
+
+Du kan også få tilgang til premium-verktøyene i Acrobat på følgende måter når du logger på:
+
+Åpne Acrobat Online-tjenester i hvilken som helst nettleser.
+
+https://www.adobe.com/go/acrobat-online_no?trackingid=DRCF13K8&mv=email
+
+Jobb fra mobilenheten din ved å laste ned Adobe Acrobat Reader-appen.
+
+https://www.adobe.com/go/reader-mobile-app_no?trackingid=F4KHZQC5&mv=email
+
+Vennlig hilsen
+
+Adobe Acrobat-teamet
+
+------------------------------------------------------------------
+
+Administrer kontoen:
+https://www.adobe.com/go/account_no
+
+Kundestøtte:
+https://www.adobe.com/go/support_no
+
+Forum:
+https://www.adobe.com/go/forums_no
+
+******************************************************************
+
+Adobe, Adobe-logoen, Creative Cloud, Creative Cloud-logoen og Document Cloud er registrerte varemerker eller varemerker som tilhører Adobe i USA og/eller andre land.
+
+Dette er ikke en uttømmende liste over Adobe-varemerker. Gå til Adobes retningslinjer for varemerker for å se den fullstendige listen. Alle andre varemerker tilhører sine respektive eiere.
+
+Adobes retningslinjer for varemerker:
+https://www.adobe.com/go/trademarks_no
+
+#if(('$!ES_GOVERNING_REGION_COUNTRY' == '')||($!ES_GOVERNING_REGION_COUNTRY == 'US')||($!ES_GOVERNING_REGION_COUNTRY == 'CA')||($!ES_GOVERNING_REGION_COUNTRY == 'MX'))Adobe, 345 Park Avenue, San Jose, CA 95110 USA.#elseif($!ES_GOVERNING_REGION_COUNTRY == 'AU')Adobe Systems Software Ireland Ltd fakturerer som autorisert agent på vegne av Adobe Australia Trading Pty Ltd. Darling Park, Tower 2, 27th Floor, 201 Sussex Street, Sydney NSW 2000, Australia#{else}Registrert kontor: Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest Business Park, Dublin 24, Ireland. Registreringsnummer: 344992#{end} #if($!ES_GOVERNING_REGION_COUNTRY == 'KR')
+
+Dette er ikke reklame for Adobe-produkter og -tjenester.#{end}#if($!ES_GOVERNING_REGION_COUNTRY == 'DE')
+
+Imprint:
+https://www.adobe.com/de/company/impressum.html #{end}
+                ]]>
